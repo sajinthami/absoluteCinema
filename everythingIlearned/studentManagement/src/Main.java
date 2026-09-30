@@ -9,5 +9,7 @@ public class Main {
         String name = scanner.nextLine();
 
         System.out.println("F github man" );
+        System.out.println("F github man" );
+        System.out.println("F github man" );
     }
 }
