@@ -7,5 +7,7 @@ public class Main {
 
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();
+
+        System.out.println("F github man" );
     }
 }
